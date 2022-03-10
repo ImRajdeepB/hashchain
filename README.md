@@ -1,6 +1,22 @@
 # Mina Snapp: Hashchain
 
-This template uses TypeScript.
+Zero-knowledge proof of age using Hash chains.
+
+https://asecuritysite.com/encryption/age
+
+## Install dependencies
+
+```sh
+npm install
+```
+
+Set year of birth in [this line](./src/index.ts#L105)
+
+## Run proof of age
+
+```sh
+npm run poa
+```
 
 ## How to build
 
